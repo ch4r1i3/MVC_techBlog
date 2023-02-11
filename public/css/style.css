@@ -1,9 +1,11 @@
 body {
-    background-color: rgb(105, 122, 74);
-
-    background-image: url("MVC_techBlog/images/pexels-pixabay-267569.jpg");
+    /* background-color: rgb(105, 122, 74); */
+    background-image: url("https://images.pexels.com/photos/267569/pexels-photo-267569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
 }
-
+h3 {
+    text-decoration: underline;
+}
     .navTitle {
     font-weight: 900;
     font-size: xx-large;
@@ -12,18 +14,21 @@ body {
     .blogBox {
     margin-top: 8px;
     border-style: solid;
+    border-radius: 10px;
+    background-color: #6c757dcf;
     }
 
     .blogTitle {
     text-decoration: none;
-    color: darkkhaki;
+    color: rgb(213, 202, 42);
     }
 
     .blogDescript {
     border-style: solid;
+    border-radius: 4px;
     margin-bottom: 5px;
     padding: 2px;
-    background-color: rgb(113, 143, 62);
+    background-color: #6495ed6e;
     }
 
     .blogText {
@@ -40,13 +45,13 @@ body {
         font-style: italic;
         font-size: 12px;
         padding: 5px;
-        color: darkkhaki;
+        color: rgb(188, 182, 103);
     }
     
     .blogBoxCont {
         margin-top: 10px;
         border-style: solid;
-        background-color: rgb(113, 143, 62);
+        background-color: #0d6efd;
     }
     
     .formCont {
@@ -76,7 +81,7 @@ body {
     .commentText {
         font-weight: bold;
         padding-top: 10px;
-        background-color: rgb(113, 143, 62);
+        background-color: rgb(208, 213, 200);
     }
     
     .commentCont {
@@ -84,15 +89,15 @@ body {
     }
     
     .headerRow {
-        background-color: black;
+        /* background-color: black; */
         margin-bottom: 10px;
     }
     
     a:link {
-        color: rgb(29, 200, 23);
+        color: rgb(23, 58, 200);
     }
     a:visited {
-        color: rgb(182, 179, 41);
+        color: rgb(244, 244, 243);
     }
     
     a:hover {
