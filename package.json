@@ -1,0 +1,22 @@
+{
+  "name": "mvc_techblog",
+  "version": "1.0.0",
+  "description": "This is a TechBlog app for developers",
+  "main": "npm start",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch4r1i3/MVC_techBlog.git"
+  },
+  "keywords": [
+    "TechBlog"
+  ],
+  "author": "Carlos Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ch4r1i3/MVC_techBlog/issues"
+  },
+  "homepage": "https://github.com/ch4r1i3/MVC_techBlog#readme"
+}
