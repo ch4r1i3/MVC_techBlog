@@ -49,7 +49,7 @@ Use these commands to install the required  packages:
 
 ## Usage
 
-Here's the link to the deployed page:
+Here's the link to the deployed page:https://mvc4techblog.herokuapp.com
 
 ## License
   MIT
